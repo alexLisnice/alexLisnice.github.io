@@ -23,6 +23,8 @@ ul{
 li{
     display: inline;
     padding: 0px 10px 0px 10px;
+    font-family: 'Courgette';
+    font-size: 25px;
 }
 header{
     text-align: center;
