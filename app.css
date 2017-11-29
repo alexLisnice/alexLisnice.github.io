@@ -22,9 +22,11 @@ ul{
 }
 li{
     display: inline;
-    padding: 0px 10px 0px 10px;
     font-family: 'Courgette';
     font-size: 25px;
+    max-width: 800px;
+    padding: 20px;
+    margin: 0 auto;
 }
 header{
     text-align: center;
