@@ -43,7 +43,8 @@ img{
     border: 10px solid #000000;
 }
 article{
-    padding-left: 10px;
+    text-align: center;
+    padding: 10px;
 }
 .button {
     display: inline-block;
