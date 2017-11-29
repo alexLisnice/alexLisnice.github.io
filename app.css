@@ -18,7 +18,7 @@ h2{
     font-size: 50px;
 }
 ul{
-    padding: 10px;
+    padding left: 10px;
 }
 li{
     display: inline;
@@ -39,8 +39,9 @@ img{
     border: 10px solid #000000;
 }
 article{
-    text-align: center;
-    padding: 60px;
+      max-width: 800px;
+      padding: 20px;
+      margin: 0 auto;
 }
 .button {
     display: inline-block;
