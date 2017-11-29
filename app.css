@@ -43,9 +43,7 @@ img{
     border: 10px solid #000000;
 }
 article{
-      max-width: 800px;
-      padding: 20px;
-      margin: 0 auto;
+    padding-left: 10px;
 }
 .button {
     display: inline-block;
