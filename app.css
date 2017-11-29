@@ -41,6 +41,7 @@ h1{
 }
 img{
     border: 10px solid #000000;
+    text-align: center;
 }
 article{
     text-align: center;
