@@ -38,8 +38,9 @@ h1{
     color: #3f3939;
     font-family: 'Courgette';
 }
-img.center {
-  display: block;
+img{
+  border: 10px #000000
+      display: block;
   margin-left: auto;
   margin-right: auto;
 }
