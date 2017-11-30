@@ -38,9 +38,9 @@ h1{
     color: #3f3939;
     font-family: 'Courgette';
 }
-img{
-    border: 10px solid #000000;
-    text-align: center;
+img.center {
+    display: block;
+    margin: 0 auto;
 }
 article{
     text-align: center;
