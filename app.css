@@ -39,10 +39,7 @@ h1{
     font-family: 'Courgette';
 }
 img{
-  border: 10px #000000;
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
+  border: 10px solid #000000;
 }
 article{
     text-align: center;
